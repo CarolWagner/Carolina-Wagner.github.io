@@ -1,2 +1,2 @@
-# Carolina-Wagner.io
+# Carolina-Wagner.github.io
 Currículo
